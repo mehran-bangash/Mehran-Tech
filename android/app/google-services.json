@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "77958225076",
+    "project_id": "mehrantech46",
+    "storage_bucket": "mehrantech46.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:77958225076:android:52d41205f82018c1b3cbe1",
+        "android_client_info": {
+          "package_name": "com.example.mehrantech"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAQ5zREQNlZJlwGbszvWiEbmZxssi25BPg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

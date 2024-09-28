@@ -1,0 +1,10 @@
+{
+    "dart.previewCommitCharacters": true,
+    "dart.previewFlutterUiGuides": true,
+    "dart.previewFlutterUiGuidesCustomTracking": true,
+    "dart.previewHotReloadOnSaveWatcher": true,
+    "emulator.androidColdBoot": true,
+    "git.allowForcePush": true,
+    "git.allowNoVerifyCommit": true,
+    "git.alwaysShowStagedChangesResourceGroup": true
+}
